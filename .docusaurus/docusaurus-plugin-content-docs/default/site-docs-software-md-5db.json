@@ -10,14 +10,11 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
-  "frontMatter": {
-    "sidebar_position": 6
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Student Discounts",
-    "permalink": "/discounts"
+    "title": "TMU Buildings 101",
+    "permalink": "/buildings"
   },
   "next": {
     "title": "University Tips",

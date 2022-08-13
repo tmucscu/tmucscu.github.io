@@ -16,11 +16,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "campus",
-              "path": "/campus",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "contact",
               "path": "/contact",
               "sidebar": "tutorialSidebar"
@@ -28,6 +23,21 @@
             {
               "id": "discounts",
               "path": "/discounts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilities/about-dcs-servers",
+              "path": "/facilities/about-dcs-servers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilities/lab-info",
+              "path": "/facilities/lab-info",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilities/ryerson-cs-setup",
+              "path": "/facilities/ryerson-cs-setup",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -41,21 +51,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro-facilities/about-dcs-servers",
-              "path": "/intro-facilities/about-dcs-servers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "intro-facilities/lab-info",
-              "path": "/intro-facilities/lab-info",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "intro-facilities/ryerson-cs-setup",
-              "path": "/intro-facilities/ryerson-cs-setup",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "software",
               "path": "/software",
               "sidebar": "tutorialSidebar"
@@ -64,11 +59,6 @@
               "id": "tips",
               "path": "/tips",
               "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/using-the-tmu-cs-facilities",
-              "path": "/category/using-the-tmu-cs-facilities",
-              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
@@ -76,7 +66,7 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/",
-                "label": "intro"
+                "label": "Home"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Introduction",
-  "description": "About Us",
+  "title": "Welcome to the Toronto Metropolitan University CSCU Wiki",
+  "description": "We are Toronto Metropolitan University’s Computer Science Course Union (CSCU). We represent all full time undergraduate computer science students at TMU in the computer science department. We also host plenty of academic, career, and social events.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -10,14 +10,12 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1,
     "slug": "/"
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Frequently Asked Questions",
-    "permalink": "/faq"
+    "title": "Setting up your Ryerson CS Account",
+    "permalink": "/facilities/ryerson-cs-setup"
   }
 }

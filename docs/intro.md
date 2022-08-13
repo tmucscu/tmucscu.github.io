@@ -1,13 +1,7 @@
 ---
-sidebar_position: 1
 slug: /
 ---
-
-# Introduction
-
-## About Us
-
-### Welcome to the Toronto Metropolitan University CSCU Wiki
+# Welcome to the Toronto Metropolitan University CSCU Wiki
 
 We are Toronto Metropolitan University’s Computer Science Course Union (CSCU). We represent all full time undergraduate computer science students at TMU in the computer science department. We also host plenty of academic, career, and social events.
 

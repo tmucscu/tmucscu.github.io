@@ -26,11 +26,11 @@ export default {
       {
         "docs": {
           "routeBasePath": "/",
-          "sidebarPath": "/Users/andrae/Documents/CS User Guide/department-guide/sidebars.js"
+          "sidebarPath": "/Users/jason/department-guide/sidebars.js"
         },
         "blog": false,
         "theme": {
-          "customCss": "/Users/andrae/Documents/CS User Guide/department-guide/src/css/custom.css"
+          "customCss": "/Users/jason/department-guide/src/css/custom.css"
         }
       }
     ]

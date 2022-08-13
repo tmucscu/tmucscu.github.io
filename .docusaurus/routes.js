@@ -4,47 +4,47 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '3f0'),
+    component: ComponentCreator('/__docusaurus/debug', '08c'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'b92'),
+    component: ComponentCreator('/__docusaurus/debug/config', '97f'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '93b'),
+    component: ComponentCreator('/__docusaurus/debug/content', '902'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '18f'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '358'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '1e5'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '49d'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '68d'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '4b4'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '0c1'),
+    component: ComponentCreator('/__docusaurus/debug/routes', 'b3d'),
     exact: true
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '2b3'),
+    component: ComponentCreator('/markdown-page', 'f5a'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', '63c'),
+    component: ComponentCreator('/', 'ac3'),
     routes: [
       {
         path: '/',
@@ -55,18 +55,6 @@ export default [
       {
         path: '/buildings',
         component: ComponentCreator('/buildings', '894'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/campus',
-        component: ComponentCreator('/campus', '9e8'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/category/using-the-tmu-cs-facilities',
-        component: ComponentCreator('/category/using-the-tmu-cs-facilities', '271'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -83,26 +71,26 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/facilities/about-dcs-servers',
+        component: ComponentCreator('/facilities/about-dcs-servers', 'd19'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/facilities/lab-info',
+        component: ComponentCreator('/facilities/lab-info', '2ec'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/facilities/ryerson-cs-setup',
+        component: ComponentCreator('/facilities/ryerson-cs-setup', 'c87'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/faq',
         component: ComponentCreator('/faq', '204'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/intro-facilities/about-dcs-servers',
-        component: ComponentCreator('/intro-facilities/about-dcs-servers', '60e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/intro-facilities/lab-info',
-        component: ComponentCreator('/intro-facilities/lab-info', 'c88'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/intro-facilities/ryerson-cs-setup',
-        component: ComponentCreator('/intro-facilities/ryerson-cs-setup', '320'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

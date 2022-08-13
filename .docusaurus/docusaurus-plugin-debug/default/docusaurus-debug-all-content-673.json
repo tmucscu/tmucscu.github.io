@@ -12,14 +12,14 @@
           "tagsPath": "/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/andrae/Documents/CS User Guide/department-guide/sidebars.js",
-          "contentPath": "/Users/andrae/Documents/CS User Guide/department-guide/docs",
-          "contentPathLocalized": "/Users/andrae/Documents/CS User Guide/department-guide/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/jason/department-guide/sidebars.js",
+          "contentPath": "/Users/jason/department-guide/docs",
+          "contentPathLocalized": "/Users/jason/department-guide/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "buildings",
               "id": "buildings",
-              "title": "TMU Building Guide 101",
+              "title": "TMU Buildings 101",
               "description": "In this section, we’ll cover buildings you’ll most likely have classes in for Computer Science courses, as well as some general purpose buildings. Trust us, you’ll want to read this.",
               "source": "@site/docs/buildings.md",
               "sourceDirName": ".",
@@ -28,51 +28,22 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Frequently Asked Questions",
-                "permalink": "/faq"
+                "title": "Lab Information",
+                "permalink": "/facilities/lab-info"
               },
               "next": {
-                "title": "CSCU Campus Video Guide",
-                "permalink": "/campus"
-              }
-            },
-            {
-              "unversionedId": "campus",
-              "id": "campus",
-              "title": "CSCU Campus Video Guide",
-              "description": "Checkout our video guide for more details on navigating campus! Topics covered are directions to buildings, study spots, CS help, and more.",
-              "source": "@site/docs/campus.md",
-              "sourceDirName": ".",
-              "slug": "/campus",
-              "permalink": "/campus",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "TMU Building Guide 101",
-                "permalink": "/buildings"
-              },
-              "next": {
-                "title": "Student Discounts",
-                "permalink": "/discounts"
+                "title": "Software and Resource Recommendations",
+                "permalink": "/software"
               }
             },
             {
               "unversionedId": "contact",
               "id": "contact",
               "title": "Contact Us",
-              "description": "Computer Science Department",
+              "description": "Computer Science Course Union",
               "source": "@site/docs/contact.md",
               "sourceDirName": ".",
               "slug": "/contact",
@@ -80,14 +51,11 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 9,
-              "frontMatter": {
-                "sidebar_position": 9
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Setting up your Ryerson CS Account",
-                "permalink": "/intro-facilities/ryerson-cs-setup"
+                "title": "Frequently Asked Questions",
+                "permalink": "/faq"
               }
             },
             {
@@ -102,18 +70,84 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "CSCU Campus Video Guide",
-                "permalink": "/campus"
+                "title": "University Tips",
+                "permalink": "/tips"
               },
               "next": {
-                "title": "Software and Resource Recommendations",
-                "permalink": "/software"
+                "title": "Frequently Asked Questions",
+                "permalink": "/faq"
+              }
+            },
+            {
+              "unversionedId": "facilities/about-dcs-servers",
+              "id": "facilities/about-dcs-servers",
+              "title": "About DCS Servers",
+              "description": "The Department of Computer Science uses a variety of hardware platforms and operating systems (O/S). The purpose of the following sections is to explain what kind of hardware can be found in the various DCS labs and what O/Ss are being run on each machine. On the UNIX and Linux side of things, DCS has multiple servers which run Unix/Linux. They are: metis, elara, europa, thebe; with four CPUs and 4GB of memory, which runs Linux. Our print server is called prm and our file server is phobos. The PCs boot up on their own and can load either Windows or Linux at boot-time. Windows is only available on the PCs and is started from the PC's hard disk as opposed to a remote server. While one can login into the UNIX/Linux machines both locally and through the Internet using an ssh client, the Windows machines can only be accessed locally. Worthy of mention is the fact that the file server provides all users with a centralized \"home\" directory that can be accessed from any of the DCS UNIX/Linux servers and Windows . It is important to remember, though, that a program compiled on one particular O/S and hardware platform cannot be run on another. For example, if you compile and run a C program on Windows on a PC, you could not then run the same executable on a Linux sytem. You would first have to re-compile the program on the Linux sytem and then you could run it. The same principle applies to both the UNIX and Linux systems.",
+              "source": "@site/docs/facilities/about-dcs-servers.md",
+              "sourceDirName": "facilities",
+              "slug": "/facilities/about-dcs-servers",
+              "permalink": "/facilities/about-dcs-servers",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Setting up your Ryerson CS Account",
+                "permalink": "/facilities/ryerson-cs-setup"
+              },
+              "next": {
+                "title": "Lab Information",
+                "permalink": "/facilities/lab-info"
+              }
+            },
+            {
+              "unversionedId": "facilities/lab-info",
+              "id": "facilities/lab-info",
+              "title": "Lab Information",
+              "description": "DCS labs are located on the second floor of the The Centre for Computing and Engineering, in which there are 4 labs available to all students: ENG201, ENG202, ENG203, and ENG206.",
+              "source": "@site/docs/facilities/lab-info.md",
+              "sourceDirName": "facilities",
+              "slug": "/facilities/lab-info",
+              "permalink": "/facilities/lab-info",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "About DCS Servers",
+                "permalink": "/facilities/about-dcs-servers"
+              },
+              "next": {
+                "title": "TMU Buildings 101",
+                "permalink": "/buildings"
+              }
+            },
+            {
+              "unversionedId": "facilities/ryerson-cs-setup",
+              "id": "facilities/ryerson-cs-setup",
+              "title": "Setting up your Ryerson CS Account",
+              "description": "Written Fall 2021 on 2021-09-03",
+              "source": "@site/docs/facilities/ryerson-cs-setup.md",
+              "sourceDirName": "facilities",
+              "slug": "/facilities/ryerson-cs-setup",
+              "permalink": "/facilities/ryerson-cs-setup",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Welcome to the Toronto Metropolitan University CSCU Wiki",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "About DCS Servers",
+                "permalink": "/facilities/about-dcs-servers"
               }
             },
             {
@@ -128,25 +162,22 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Introduction",
-                "permalink": "/"
+                "title": "Student Discounts",
+                "permalink": "/discounts"
               },
               "next": {
-                "title": "TMU Building Guide 101",
-                "permalink": "/buildings"
+                "title": "Contact Us",
+                "permalink": "/contact"
               }
             },
             {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "Introduction",
-              "description": "About Us",
+              "title": "Welcome to the Toronto Metropolitan University CSCU Wiki",
+              "description": "We are Toronto Metropolitan University’s Computer Science Course Union (CSCU). We represent all full time undergraduate computer science students at TMU in the computer science department. We also host plenty of academic, career, and social events.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/",
@@ -154,93 +185,13 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 1,
                 "slug": "/"
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Frequently Asked Questions",
-                "permalink": "/faq"
-              }
-            },
-            {
-              "unversionedId": "intro-facilities/about-dcs-servers",
-              "id": "intro-facilities/about-dcs-servers",
-              "title": "About DCS Servers",
-              "description": "The Department of Computer Science uses a variety of hardware platforms and operating systems (O/S). The purpose of the following sections is to explain what kind of hardware can be found in the various DCS labs and what O/Ss are being run on each machine. On the UNIX and Linux side of things, DCS has multiple servers which run Unix/Linux. They are: metis, elara, europa, thebe; with four CPUs and 4GB of memory, which runs Linux. Our print server is called prm and our file server is phobos. The PCs boot up on their own and can load either Windows or Linux at boot-time. Windows is only available on the PCs and is started from the PC's hard disk as opposed to a remote server. While one can login into the UNIX/Linux machines both locally and through the Internet using an ssh client, the Windows machines can only be accessed locally. Worthy of mention is the fact that the file server provides all users with a centralized \"home\" directory that can be accessed from any of the DCS UNIX/Linux servers and Windows . It is important to remember, though, that a program compiled on one particular O/S and hardware platform cannot be run on another. For example, if you compile and run a C program on Windows on a PC, you could not then run the same executable on a Linux sytem. You would first have to re-compile the program on the Linux sytem and then you could run it. The same principle applies to both the UNIX and Linux systems.",
-              "source": "@site/docs/intro-facilities/about-dcs-servers.md",
-              "sourceDirName": "intro-facilities",
-              "slug": "/intro-facilities/about-dcs-servers",
-              "permalink": "/intro-facilities/about-dcs-servers",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Using the TMU CS Facilities",
-                "permalink": "/category/using-the-tmu-cs-facilities"
-              },
-              "next": {
-                "title": "Lab Information",
-                "permalink": "/intro-facilities/lab-info"
-              }
-            },
-            {
-              "unversionedId": "intro-facilities/lab-info",
-              "id": "intro-facilities/lab-info",
-              "title": "Lab Information",
-              "description": "DCS labs are located on the second floor of the The Centre for Computing and Engineering, in which there are 4 labs available to all students: ENG201, ENG202, ENG203, and ENG206.",
-              "source": "@site/docs/intro-facilities/lab-info.md",
-              "sourceDirName": "intro-facilities",
-              "slug": "/intro-facilities/lab-info",
-              "permalink": "/intro-facilities/lab-info",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "About DCS Servers",
-                "permalink": "/intro-facilities/about-dcs-servers"
-              },
-              "next": {
                 "title": "Setting up your Ryerson CS Account",
-                "permalink": "/intro-facilities/ryerson-cs-setup"
-              }
-            },
-            {
-              "unversionedId": "intro-facilities/ryerson-cs-setup",
-              "id": "intro-facilities/ryerson-cs-setup",
-              "title": "Setting up your Ryerson CS Account",
-              "description": "Written Fall 2021 on 2021-09-03",
-              "source": "@site/docs/intro-facilities/ryerson-cs-setup.md",
-              "sourceDirName": "intro-facilities",
-              "slug": "/intro-facilities/ryerson-cs-setup",
-              "permalink": "/intro-facilities/ryerson-cs-setup",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Lab Information",
-                "permalink": "/intro-facilities/lab-info"
-              },
-              "next": {
-                "title": "Contact Us",
-                "permalink": "/contact"
+                "permalink": "/facilities/ryerson-cs-setup"
               }
             },
             {
@@ -255,14 +206,11 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Student Discounts",
-                "permalink": "/discounts"
+                "title": "TMU Buildings 101",
+                "permalink": "/buildings"
               },
               "next": {
                 "title": "University Tips",
@@ -281,18 +229,15 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 7,
-              "frontMatter": {
-                "sidebar_position": 7
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Software and Resource Recommendations",
                 "permalink": "/software"
               },
               "next": {
-                "title": "Using the TMU CS Facilities",
-                "permalink": "/category/using-the-tmu-cs-facilities"
+                "title": "Student Discounts",
+                "permalink": "/discounts"
               }
             }
           ],
@@ -301,61 +246,61 @@
             "tutorialSidebar": [
               {
                 "type": "doc",
-                "id": "intro"
-              },
-              {
-                "type": "doc",
-                "id": "faq"
-              },
-              {
-                "type": "doc",
-                "id": "buildings"
-              },
-              {
-                "type": "doc",
-                "id": "campus"
-              },
-              {
-                "type": "doc",
-                "id": "discounts"
-              },
-              {
-                "type": "doc",
-                "id": "software"
-              },
-              {
-                "type": "doc",
-                "id": "tips"
+                "id": "intro",
+                "label": "Home"
               },
               {
                 "type": "category",
-                "label": "Using the TMU CS Facilities",
+                "label": "Using TMU CS Facilities",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "intro-facilities/about-dcs-servers"
+                    "id": "facilities/ryerson-cs-setup",
+                    "label": "Setting up your Ryerson CS account"
                   },
                   {
                     "type": "doc",
-                    "id": "intro-facilities/lab-info"
+                    "id": "facilities/about-dcs-servers",
+                    "label": "About DCS Servers"
                   },
                   {
                     "type": "doc",
-                    "id": "intro-facilities/ryerson-cs-setup"
+                    "id": "facilities/lab-info",
+                    "label": "Lab Information"
                   }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "description": "DCS Computing Facilities",
-                  "slug": "/category/using-the-tmu-cs-facilities",
-                  "permalink": "/category/using-the-tmu-cs-facilities"
-                }
+                ]
               },
               {
                 "type": "doc",
-                "id": "contact"
+                "id": "buildings",
+                "label": "TMU Buildings 101"
+              },
+              {
+                "type": "doc",
+                "id": "software",
+                "label": "Software and Resource Recommendations"
+              },
+              {
+                "type": "doc",
+                "id": "tips",
+                "label": "University Tips"
+              },
+              {
+                "type": "doc",
+                "id": "discounts",
+                "label": "Student Discounts"
+              },
+              {
+                "type": "doc",
+                "id": "faq",
+                "label": "Frequently Asked Questions"
+              },
+              {
+                "type": "doc",
+                "id": "contact",
+                "label": "Contact Us"
               }
             ]
           }
