@@ -53,31 +53,8 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "links": [
-        {
-          "title": "Social Media",
-          "items": [
-            {
-              "label": "Instagram",
-              "href": "https://www.instagram.com/tmu_cscu/"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/ryecscu"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "GitHub",
-              "href": "https://github.com/tmucscu"
-            }
-          ]
-        }
-      ],
-      "copyright": "Copyright © 2022 TMU CSCU. Built with Docusaurus."
+      "copyright": "Copyright © 2022 TMU CSCU",
+      "links": []
     },
     "prism": {
       "theme": {
