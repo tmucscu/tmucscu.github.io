@@ -1,0 +1,16 @@
+{
+  "title": "How to Access the DCS Facilities",
+  "description": "a",
+  "slug": "/category/how-to-access-the-dcs-facilities",
+  "permalink": "/category/how-to-access-the-dcs-facilities",
+  "navigation": {
+    "previous": {
+      "title": "Contact Us",
+      "permalink": "/contact"
+    },
+    "next": {
+      "title": "Windows",
+      "permalink": "/how-to-access/login-windows"
+    }
+  }
+}

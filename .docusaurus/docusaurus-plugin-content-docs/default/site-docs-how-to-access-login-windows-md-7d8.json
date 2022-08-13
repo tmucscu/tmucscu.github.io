@@ -1,0 +1,26 @@
+{
+  "unversionedId": "how-to-access/login-windows",
+  "id": "how-to-access/login-windows",
+  "title": "Windows",
+  "description": "Logging into Windows",
+  "source": "@site/docs/how-to-access/login-windows.md",
+  "sourceDirName": "how-to-access",
+  "slug": "/how-to-access/login-windows",
+  "permalink": "/how-to-access/login-windows",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to Access the DCS Facilities",
+    "permalink": "/category/how-to-access-the-dcs-facilities"
+  },
+  "next": {
+    "title": "Linux/MacOS",
+    "permalink": "/how-to-access/login-linux"
+  }
+}

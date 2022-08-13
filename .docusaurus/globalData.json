@@ -1,0 +1,88 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "buildings",
+              "path": "/buildings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "campus",
+              "path": "/campus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contact",
+              "path": "/contact",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discounts",
+              "path": "/discounts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq",
+              "path": "/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro-facilities/about-dcs-servers",
+              "path": "/intro-facilities/about-dcs-servers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro-facilities/lab-info",
+              "path": "/intro-facilities/lab-info",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro-facilities/ryerson-cs-setup",
+              "path": "/intro-facilities/ryerson-cs-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "software",
+              "path": "/software",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tips",
+              "path": "/tips",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/using-the-tmu-cs-facilities",
+              "path": "/category/using-the-tmu-cs-facilities",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

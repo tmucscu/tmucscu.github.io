@@ -1,0 +1,16 @@
+{
+  "title": "Introduction to DCS Computing Facilities",
+  "description": "DCS Computing Facilities",
+  "slug": "/category/introduction-to-dcs-computing-facilities",
+  "permalink": "/category/introduction-to-dcs-computing-facilities",
+  "navigation": {
+    "previous": {
+      "title": "Contact Us",
+      "permalink": "/contact"
+    },
+    "next": {
+      "title": "About DCS Servers",
+      "permalink": "/intro-facilities/about-dcs-servers"
+    }
+  }
+}

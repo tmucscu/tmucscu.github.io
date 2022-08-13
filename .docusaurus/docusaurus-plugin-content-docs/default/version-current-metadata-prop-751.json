@@ -1,0 +1,156 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/",
+        "docId": "intro"
+      },
+      {
+        "type": "link",
+        "label": "Frequently Asked Questions",
+        "href": "/faq",
+        "docId": "faq"
+      },
+      {
+        "type": "link",
+        "label": "TMU Building Guide 101",
+        "href": "/buildings",
+        "docId": "buildings"
+      },
+      {
+        "type": "link",
+        "label": "CSCU Campus Video Guide",
+        "href": "/campus",
+        "docId": "campus"
+      },
+      {
+        "type": "link",
+        "label": "Student Discounts",
+        "href": "/discounts",
+        "docId": "discounts"
+      },
+      {
+        "type": "link",
+        "label": "Software and Resource Recommendations",
+        "href": "/software",
+        "docId": "software"
+      },
+      {
+        "type": "link",
+        "label": "University Tips",
+        "href": "/tips",
+        "docId": "tips"
+      },
+      {
+        "type": "category",
+        "label": "Using the TMU CS Facilities",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "About DCS Servers",
+            "href": "/intro-facilities/about-dcs-servers",
+            "docId": "intro-facilities/about-dcs-servers"
+          },
+          {
+            "type": "link",
+            "label": "Lab Information",
+            "href": "/intro-facilities/lab-info",
+            "docId": "intro-facilities/lab-info"
+          },
+          {
+            "type": "link",
+            "label": "Setting up your Ryerson CS Account",
+            "href": "/intro-facilities/ryerson-cs-setup",
+            "docId": "intro-facilities/ryerson-cs-setup"
+          }
+        ],
+        "href": "/category/using-the-tmu-cs-facilities"
+      },
+      {
+        "type": "link",
+        "label": "Contact Us",
+        "href": "/contact",
+        "docId": "contact"
+      }
+    ]
+  },
+  "docs": {
+    "buildings": {
+      "id": "buildings",
+      "title": "TMU Building Guide 101",
+      "description": "In this section, we’ll cover buildings you’ll most likely have classes in for Computer Science courses, as well as some general purpose buildings. Trust us, you’ll want to read this.",
+      "sidebar": "tutorialSidebar"
+    },
+    "campus": {
+      "id": "campus",
+      "title": "CSCU Campus Video Guide",
+      "description": "Checkout our video guide for more details on navigating campus! Topics covered are directions to buildings, study spots, CS help, and more.",
+      "sidebar": "tutorialSidebar"
+    },
+    "contact": {
+      "id": "contact",
+      "title": "Contact Us",
+      "description": "Computer Science Department",
+      "sidebar": "tutorialSidebar"
+    },
+    "discounts": {
+      "id": "discounts",
+      "title": "Student Discounts",
+      "description": "Adobe Creative Cloud",
+      "sidebar": "tutorialSidebar"
+    },
+    "faq": {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "description": "What are some events you’ve held in the past?",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "About Us",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro-facilities/about-dcs-servers": {
+      "id": "intro-facilities/about-dcs-servers",
+      "title": "About DCS Servers",
+      "description": "The Department of Computer Science uses a variety of hardware platforms and operating systems (O/S). The purpose of the following sections is to explain what kind of hardware can be found in the various DCS labs and what O/Ss are being run on each machine. On the UNIX and Linux side of things, DCS has multiple servers which run Unix/Linux. They are: metis, elara, europa, thebe; with four CPUs and 4GB of memory, which runs Linux. Our print server is called prm and our file server is phobos. The PCs boot up on their own and can load either Windows or Linux at boot-time. Windows is only available on the PCs and is started from the PC's hard disk as opposed to a remote server. While one can login into the UNIX/Linux machines both locally and through the Internet using an ssh client, the Windows machines can only be accessed locally. Worthy of mention is the fact that the file server provides all users with a centralized \"home\" directory that can be accessed from any of the DCS UNIX/Linux servers and Windows . It is important to remember, though, that a program compiled on one particular O/S and hardware platform cannot be run on another. For example, if you compile and run a C program on Windows on a PC, you could not then run the same executable on a Linux sytem. You would first have to re-compile the program on the Linux sytem and then you could run it. The same principle applies to both the UNIX and Linux systems.",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro-facilities/lab-info": {
+      "id": "intro-facilities/lab-info",
+      "title": "Lab Information",
+      "description": "DCS labs are located on the second floor of the The Centre for Computing and Engineering, in which there are 4 labs available to all students: ENG201, ENG202, ENG203, and ENG206.",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro-facilities/ryerson-cs-setup": {
+      "id": "intro-facilities/ryerson-cs-setup",
+      "title": "Setting up your Ryerson CS Account",
+      "description": "Written Fall 2021 on 2021-09-03",
+      "sidebar": "tutorialSidebar"
+    },
+    "software": {
+      "id": "software",
+      "title": "Software and Resource Recommendations",
+      "description": "Github Desktop",
+      "sidebar": "tutorialSidebar"
+    },
+    "tips": {
+      "id": "tips",
+      "title": "University Tips",
+      "description": "Invest In Your Setup",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

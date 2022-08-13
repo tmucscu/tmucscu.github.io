@@ -1,0 +1,26 @@
+{
+  "unversionedId": "software",
+  "id": "software",
+  "title": "Software and Resource Recommendations",
+  "description": "Github Desktop",
+  "source": "@site/docs/software.md",
+  "sourceDirName": ".",
+  "slug": "/software",
+  "permalink": "/software",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Student Discounts",
+    "permalink": "/discounts"
+  },
+  "next": {
+    "title": "University Tips",
+    "permalink": "/tips"
+  }
+}

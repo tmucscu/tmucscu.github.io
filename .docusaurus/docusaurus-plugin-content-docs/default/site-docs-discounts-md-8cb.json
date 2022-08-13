@@ -1,0 +1,26 @@
+{
+  "unversionedId": "discounts",
+  "id": "discounts",
+  "title": "Student Discounts",
+  "description": "Adobe Creative Cloud",
+  "source": "@site/docs/discounts.md",
+  "sourceDirName": ".",
+  "slug": "/discounts",
+  "permalink": "/discounts",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CSCU Campus Video Guide",
+    "permalink": "/campus"
+  },
+  "next": {
+    "title": "Software and Resource Recommendations",
+    "permalink": "/software"
+  }
+}

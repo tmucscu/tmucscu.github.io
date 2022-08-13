@@ -1,0 +1,22 @@
+{
+  "unversionedId": "contact",
+  "id": "contact",
+  "title": "Contact Us",
+  "description": "Computer Science Department",
+  "source": "@site/docs/contact.md",
+  "sourceDirName": ".",
+  "slug": "/contact",
+  "permalink": "/contact",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setting up your Ryerson CS Account",
+    "permalink": "/intro-facilities/ryerson-cs-setup"
+  }
+}

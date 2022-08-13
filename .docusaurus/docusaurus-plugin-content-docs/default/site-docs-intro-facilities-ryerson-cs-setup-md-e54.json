@@ -1,0 +1,26 @@
+{
+  "unversionedId": "intro-facilities/ryerson-cs-setup",
+  "id": "intro-facilities/ryerson-cs-setup",
+  "title": "Setting up your Ryerson CS Account",
+  "description": "Written Fall 2021 on 2021-09-03",
+  "source": "@site/docs/intro-facilities/ryerson-cs-setup.md",
+  "sourceDirName": "intro-facilities",
+  "slug": "/intro-facilities/ryerson-cs-setup",
+  "permalink": "/intro-facilities/ryerson-cs-setup",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lab Information",
+    "permalink": "/intro-facilities/lab-info"
+  },
+  "next": {
+    "title": "Contact Us",
+    "permalink": "/contact"
+  }
+}

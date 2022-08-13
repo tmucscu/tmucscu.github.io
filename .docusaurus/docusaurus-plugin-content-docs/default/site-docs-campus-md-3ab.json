@@ -1,0 +1,26 @@
+{
+  "unversionedId": "campus",
+  "id": "campus",
+  "title": "CSCU Campus Video Guide",
+  "description": "Checkout our video guide for more details on navigating campus! Topics covered are directions to buildings, study spots, CS help, and more.",
+  "source": "@site/docs/campus.md",
+  "sourceDirName": ".",
+  "slug": "/campus",
+  "permalink": "/campus",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TMU Building Guide 101",
+    "permalink": "/buildings"
+  },
+  "next": {
+    "title": "Student Discounts",
+    "permalink": "/discounts"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Using the TMU CS Facilities",
+  "description": "DCS Computing Facilities",
+  "slug": "/category/using-the-tmu-cs-facilities",
+  "permalink": "/category/using-the-tmu-cs-facilities",
+  "navigation": {
+    "previous": {
+      "title": "University Tips",
+      "permalink": "/tips"
+    },
+    "next": {
+      "title": "About DCS Servers",
+      "permalink": "/intro-facilities/about-dcs-servers"
+    }
+  }
+}

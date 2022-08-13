@@ -1,0 +1,26 @@
+{
+  "unversionedId": "how-to-access/login-linux",
+  "id": "how-to-access/login-linux",
+  "title": "Linux/MacOS",
+  "description": "",
+  "source": "@site/docs/how-to-access/login-linux.md",
+  "sourceDirName": "how-to-access",
+  "slug": "/how-to-access/login-linux",
+  "permalink": "/how-to-access/login-linux",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Windows",
+    "permalink": "/how-to-access/login-windows"
+  },
+  "next": {
+    "title": "Introduction to DCS Computing Facilities",
+    "permalink": "/category/introduction-to-dcs-computing-facilities"
+  }
+}

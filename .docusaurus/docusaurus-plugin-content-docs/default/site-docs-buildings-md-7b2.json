@@ -1,0 +1,26 @@
+{
+  "unversionedId": "buildings",
+  "id": "buildings",
+  "title": "TMU Building Guide 101",
+  "description": "In this section, we’ll cover buildings you’ll most likely have classes in for Computer Science courses, as well as some general purpose buildings. Trust us, you’ll want to read this.",
+  "source": "@site/docs/buildings.md",
+  "sourceDirName": ".",
+  "slug": "/buildings",
+  "permalink": "/buildings",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/faq"
+  },
+  "next": {
+    "title": "CSCU Campus Video Guide",
+    "permalink": "/campus"
+  }
+}

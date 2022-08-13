@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Lab Information
 
-DCS labs are located on the second floor of the The Centre for Computing and Engineering , in which there are 4 labs available to all students: ENG201, ENG202, ENG203, and ENG206.
+DCS labs are located on the second floor of the The Centre for Computing and Engineering, in which there are 4 labs available to all students: ENG201, ENG202, ENG203, and ENG206.
 
 * ENG201: 49 Computers
 * ENG202: 48 Computers

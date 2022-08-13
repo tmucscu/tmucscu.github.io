@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - Extras",
+  "slug": "/category/tutorial---extras",
+  "permalink": "/category/tutorial---extras",
+  "navigation": {
+    "previous": {
+      "title": "Setting up your Ryerson CS Account",
+      "permalink": "/how-to-access/ryerson-cs-setup"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/tutorial-extras/manage-docs-versions"
+    }
+  }
+}
