@@ -42,14 +42,8 @@ export default {
         "alt": "CSCU Logo",
         "src": "img/cscu.png"
       },
-      "items": [
-        {
-          "href": "https://github.com/tmucscu",
-          "label": "GitHub",
-          "position": "right"
-        }
-      ],
-      "hideOnScroll": false
+      "hideOnScroll": false,
+      "items": []
     },
     "footer": {
       "style": "dark",

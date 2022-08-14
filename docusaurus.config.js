@@ -57,19 +57,6 @@ const config = {
           alt: "CSCU Logo",
           src: "img/cscu.png",
         },
-        items: [
-          // {
-          //   type: 'doc',
-          //   docId: 'intro',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
-          {
-            href: "https://github.com/tmucscu",
-            label: "GitHub",
-            position: "right",
-          },
-        ],
       },
       footer: {
         style: "dark",
