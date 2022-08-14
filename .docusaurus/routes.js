@@ -3,48 +3,48 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '9d6'),
+    path: '/__docusaurus/debug/',
+    component: ComponentCreator('/__docusaurus/debug/', 'bc0'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '4ed'),
+    path: '/__docusaurus/debug/config/',
+    component: ComponentCreator('/__docusaurus/debug/config/', 'de6'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'cea'),
+    path: '/__docusaurus/debug/content/',
+    component: ComponentCreator('/__docusaurus/debug/content/', '9f5'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '15d'),
+    path: '/__docusaurus/debug/globalData/',
+    component: ComponentCreator('/__docusaurus/debug/globalData/', '253'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '9cc'),
+    path: '/__docusaurus/debug/metadata/',
+    component: ComponentCreator('/__docusaurus/debug/metadata/', '585'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '072'),
+    path: '/__docusaurus/debug/registry/',
+    component: ComponentCreator('/__docusaurus/debug/registry/', '24b'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '3bb'),
+    path: '/__docusaurus/debug/routes/',
+    component: ComponentCreator('/__docusaurus/debug/routes/', '518'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '72f'),
+    path: '/markdown-page/',
+    component: ComponentCreator('/markdown-page/', '30d'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'dfe'),
+    component: ComponentCreator('/', 'b4a'),
     routes: [
       {
         path: '/',
@@ -53,56 +53,56 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/buildings',
-        component: ComponentCreator('/buildings', '894'),
+        path: '/buildings/',
+        component: ComponentCreator('/buildings/', '52c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/contact',
-        component: ComponentCreator('/contact', '820'),
+        path: '/contact/',
+        component: ComponentCreator('/contact/', 'e86'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/discounts',
-        component: ComponentCreator('/discounts', '053'),
+        path: '/discounts/',
+        component: ComponentCreator('/discounts/', 'f5b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/facilities/about-dcs-servers',
-        component: ComponentCreator('/facilities/about-dcs-servers', 'd19'),
+        path: '/facilities/about-dcs-servers/',
+        component: ComponentCreator('/facilities/about-dcs-servers/', '566'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/facilities/lab-info',
-        component: ComponentCreator('/facilities/lab-info', '2ec'),
+        path: '/facilities/lab-info/',
+        component: ComponentCreator('/facilities/lab-info/', '2d3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/facilities/ryerson-cs-setup',
-        component: ComponentCreator('/facilities/ryerson-cs-setup', 'c87'),
+        path: '/facilities/ryerson-cs-setup/',
+        component: ComponentCreator('/facilities/ryerson-cs-setup/', 'c01'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/faq',
-        component: ComponentCreator('/faq', '204'),
+        path: '/faq/',
+        component: ComponentCreator('/faq/', 'ebd'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/software',
-        component: ComponentCreator('/software', '311'),
+        path: '/software/',
+        component: ComponentCreator('/software/', '7b5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/tips',
-        component: ComponentCreator('/tips', '960'),
+        path: '/tips/',
+        component: ComponentCreator('/tips/', '50d'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

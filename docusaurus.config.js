@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "TMU CSCU Wiki",
   tagline: "A user guide for computer science at TMU.",
-  url: "/",
+  url: "https://tmucscu.github.io/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -16,8 +16,10 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "Toronto Metropolitan University", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "tmucscu", // Usually your GitHub org/user name.
+  projectName: "tmucscu.github.io", // Usually your repo name.
+  deploymentBranch: "main",
+  trailingSlash: true,
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want

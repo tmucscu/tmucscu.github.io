@@ -1,55 +1,55 @@
 {
-  "/__docusaurus/debug-9d6": {
+  "/__docusaurus/debug/-bc0": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---docusaurus-debugdba-e74"
     }
   },
-  "/__docusaurus/debug/config-4ed": {
+  "/__docusaurus/debug/config/-de6": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---docusaurus-debugdba-e74"
     }
   },
-  "/__docusaurus/debug/content-cea": {
+  "/__docusaurus/debug/content/-9f5": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
       "plugin": "plugin---docusaurus-debugdba-e74"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-15d": {
+  "/__docusaurus/debug/globalData/-253": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
       "plugin": "plugin---docusaurus-debugdba-e74"
     }
   },
-  "/__docusaurus/debug/metadata-9cc": {
+  "/__docusaurus/debug/metadata/-585": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
       "plugin": "plugin---docusaurus-debugdba-e74"
     }
   },
-  "/__docusaurus/debug/registry-072": {
+  "/__docusaurus/debug/registry/-24b": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
       "plugin": "plugin---docusaurus-debugdba-e74"
     }
   },
-  "/__docusaurus/debug/routes-3bb": {
+  "/__docusaurus/debug/routes/-518": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
       "plugin": "plugin---docusaurus-debugdba-e74"
     }
   },
-  "/markdown-page-72f": {
+  "/markdown-page/-30d": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
       "plugin": "plugin---markdown-page-4-c-9-d81"
     },
     "content": "content---markdown-page-393-028"
   },
-  "/-dfe": {
+  "/-b4a": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---6-af-58b"
@@ -60,39 +60,39 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---0-e-3-279"
   },
-  "/buildings-894": {
+  "/buildings/-52c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---buildings-7-b-2-5f5"
   },
-  "/contact-820": {
+  "/contact/-e86": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---contact-32-d-595"
   },
-  "/discounts-053": {
+  "/discounts/-f5b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---discounts-8-cb-b33"
   },
-  "/facilities/about-dcs-servers-d19": {
+  "/facilities/about-dcs-servers/-566": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---facilities-about-dcs-servers-9-ad-6e2"
   },
-  "/facilities/lab-info-2ec": {
+  "/facilities/lab-info/-2d3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---facilities-lab-info-82-f-e94"
   },
-  "/facilities/ryerson-cs-setup-c87": {
+  "/facilities/ryerson-cs-setup/-c01": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---facilities-ryerson-cs-setupe-37-2fd"
   },
-  "/faq-204": {
+  "/faq/-ebd": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---faq-048-9a2"
   },
-  "/software-311": {
+  "/software/-7b5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---software-5-db-f8b"
   },
-  "/tips-960": {
+  "/tips/-50d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tipsc-8-b-b43"
   }

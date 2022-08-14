@@ -6,13 +6,15 @@
 export default {
   "title": "TMU CSCU Wiki",
   "tagline": "A user guide for computer science at TMU.",
-  "url": "/",
+  "url": "https://tmucscu.github.io/",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "Toronto Metropolitan University",
-  "projectName": "docusaurus",
+  "organizationName": "tmucscu",
+  "projectName": "tmucscu.github.io",
+  "deploymentBranch": "main",
+  "trailingSlash": true,
   "i18n": {
     "defaultLocale": "en",
     "locales": [
