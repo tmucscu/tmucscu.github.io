@@ -2,52 +2,52 @@
   "/__docusaurus/debug/-bc0": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugdba-e74"
+      "plugin": "plugin---docusaurus-debug-dba-d84"
     }
   },
   "/__docusaurus/debug/config/-de6": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugdba-e74"
+      "plugin": "plugin---docusaurus-debug-dba-d84"
     }
   },
   "/__docusaurus/debug/content/-9f5": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debugdba-e74"
+      "plugin": "plugin---docusaurus-debug-dba-d84"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "allContent": "allContent---docusaurus-debug-content-246-d88"
   },
   "/__docusaurus/debug/globalData/-253": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debugdba-e74"
+      "plugin": "plugin---docusaurus-debug-dba-d84"
     }
   },
   "/__docusaurus/debug/metadata/-585": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debugdba-e74"
+      "plugin": "plugin---docusaurus-debug-dba-d84"
     }
   },
   "/__docusaurus/debug/registry/-24b": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debugdba-e74"
+      "plugin": "plugin---docusaurus-debug-dba-d84"
     }
   },
   "/__docusaurus/debug/routes/-518": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debugdba-e74"
+      "plugin": "plugin---docusaurus-debug-dba-d84"
     }
   },
   "/markdown-page/-30d": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-page-4-c-9-d81"
+      "plugin": "plugin---markdown-page-4-c-9-245"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "content---markdown-page-393-038"
   },
   "/-b4a": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
@@ -62,38 +62,38 @@
   },
   "/buildings/-52c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---buildings-7-b-2-5f5"
+    "content": "content---buildings-7-b-2-199"
   },
   "/contact/-e86": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---contact-32-d-595"
+    "content": "content---contact-32-d-48b"
   },
   "/discounts/-f5b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---discounts-8-cb-b33"
+    "content": "content---discounts-8-cb-7fc"
   },
   "/facilities/about-dcs-servers/-566": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---facilities-about-dcs-servers-9-ad-6e2"
+    "content": "content---facilities-about-dcs-servers-9-ad-79e"
   },
   "/facilities/lab-info/-2d3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---facilities-lab-info-82-f-e94"
+    "content": "content---facilities-lab-info-82-f-1a4"
   },
   "/facilities/ryerson-cs-setup/-c01": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---facilities-ryerson-cs-setupe-37-2fd"
+    "content": "content---facilities-ryerson-cs-setup-e-37-2c6"
   },
   "/faq/-ebd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---faq-048-9a2"
+    "content": "content---faq-048-fd5"
   },
   "/software/-7b5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---software-5-db-f8b"
+    "content": "content---software-5-db-648"
   },
   "/tips/-50d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tipsc-8-b-b43"
+    "content": "content---tips-c-8-b-09c"
   }
 }
