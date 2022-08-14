@@ -6,7 +6,7 @@
 export default {
   "title": "TMU CSCU Wiki",
   "tagline": "A user guide for computer science at TMU.",
-  "url": "https://tmucscu.github.io/",
+  "url": "https://tmucscu.github.io",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -14,7 +14,7 @@ export default {
   "organizationName": "tmucscu",
   "projectName": "tmucscu.github.io",
   "deploymentBranch": "main",
-  "trailingSlash": true,
+  "trailingSlash": false,
   "i18n": {
     "defaultLocale": "en",
     "locales": [

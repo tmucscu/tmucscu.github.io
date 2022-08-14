@@ -3,13 +3,13 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/markdown-page/',
-    component: ComponentCreator('/markdown-page/', '30d'),
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', '72f'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'b4a'),
+    component: ComponentCreator('/', 'dfe'),
     routes: [
       {
         path: '/',
@@ -18,56 +18,56 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/buildings/',
-        component: ComponentCreator('/buildings/', '52c'),
+        path: '/buildings',
+        component: ComponentCreator('/buildings', '894'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/contact/',
-        component: ComponentCreator('/contact/', 'e86'),
+        path: '/contact',
+        component: ComponentCreator('/contact', '820'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/discounts/',
-        component: ComponentCreator('/discounts/', 'f5b'),
+        path: '/discounts',
+        component: ComponentCreator('/discounts', '053'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/facilities/about-dcs-servers/',
-        component: ComponentCreator('/facilities/about-dcs-servers/', '566'),
+        path: '/facilities/about-dcs-servers',
+        component: ComponentCreator('/facilities/about-dcs-servers', 'd19'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/facilities/lab-info/',
-        component: ComponentCreator('/facilities/lab-info/', '2d3'),
+        path: '/facilities/lab-info',
+        component: ComponentCreator('/facilities/lab-info', '2ec'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/facilities/ryerson-cs-setup/',
-        component: ComponentCreator('/facilities/ryerson-cs-setup/', 'c01'),
+        path: '/facilities/ryerson-cs-setup',
+        component: ComponentCreator('/facilities/ryerson-cs-setup', 'c87'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/faq/',
-        component: ComponentCreator('/faq/', 'ebd'),
+        path: '/faq',
+        component: ComponentCreator('/faq', '204'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/software/',
-        component: ComponentCreator('/software/', '7b5'),
+        path: '/software',
+        component: ComponentCreator('/software', '311'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/tips/',
-        component: ComponentCreator('/tips/', '50d'),
+        path: '/tips',
+        component: ComponentCreator('/tips', '960'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
