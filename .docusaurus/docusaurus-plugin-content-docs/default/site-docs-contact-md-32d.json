@@ -2,7 +2,7 @@
   "unversionedId": "contact",
   "id": "contact",
   "title": "Contact Us",
-  "description": "Computer Science Department",
+  "description": "Computer Science Course Union",
   "source": "@site/docs/contact.md",
   "sourceDirName": ".",
   "slug": "/contact",
@@ -10,13 +10,10 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 9,
-  "frontMatter": {
-    "sidebar_position": 9
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Setting up your Ryerson CS Account",
-    "permalink": "/intro-facilities/ryerson-cs-setup"
+    "title": "Frequently Asked Questions",
+    "permalink": "/faq"
   }
 }

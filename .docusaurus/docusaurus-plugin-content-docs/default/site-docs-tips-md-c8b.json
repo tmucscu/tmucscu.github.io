@@ -10,17 +10,14 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 7,
-  "frontMatter": {
-    "sidebar_position": 7
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Software and Resource Recommendations",
     "permalink": "/software"
   },
   "next": {
-    "title": "Using the TMU CS Facilities",
-    "permalink": "/category/using-the-tmu-cs-facilities"
+    "title": "Student Discounts",
+    "permalink": "/discounts"
   }
 }

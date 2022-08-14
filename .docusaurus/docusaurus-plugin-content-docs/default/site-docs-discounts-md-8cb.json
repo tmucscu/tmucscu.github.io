@@ -10,17 +10,14 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
-  "frontMatter": {
-    "sidebar_position": 5
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "CSCU Campus Video Guide",
-    "permalink": "/campus"
+    "title": "University Tips",
+    "permalink": "/tips"
   },
   "next": {
-    "title": "Software and Resource Recommendations",
-    "permalink": "/software"
+    "title": "Frequently Asked Questions",
+    "permalink": "/faq"
   }
 }

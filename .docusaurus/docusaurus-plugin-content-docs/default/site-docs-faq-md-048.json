@@ -10,17 +10,14 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
-  "frontMatter": {
-    "sidebar_position": 2
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Introduction",
-    "permalink": "/"
+    "title": "Student Discounts",
+    "permalink": "/discounts"
   },
   "next": {
-    "title": "TMU Building Guide 101",
-    "permalink": "/buildings"
+    "title": "Contact Us",
+    "permalink": "/contact"
   }
 }

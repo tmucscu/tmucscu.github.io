@@ -1,12 +1,12 @@
 {
-  "unversionedId": "intro-facilities/ryerson-cs-setup",
-  "id": "intro-facilities/ryerson-cs-setup",
+  "unversionedId": "facilities/ryerson-cs-setup",
+  "id": "facilities/ryerson-cs-setup",
   "title": "Setting up your Ryerson CS Account",
   "description": "Written Fall 2021 on 2021-09-03",
-  "source": "@site/docs/intro-facilities/ryerson-cs-setup.md",
-  "sourceDirName": "intro-facilities",
-  "slug": "/intro-facilities/ryerson-cs-setup",
-  "permalink": "/intro-facilities/ryerson-cs-setup",
+  "source": "@site/docs/facilities/ryerson-cs-setup.md",
+  "sourceDirName": "facilities",
+  "slug": "/facilities/ryerson-cs-setup",
+  "permalink": "/facilities/ryerson-cs-setup",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   },
   "next": {
     "title": "About DCS Servers",
-    "permalink": "/intro-facilities/about-dcs-servers"
+    "permalink": "/facilities/about-dcs-servers"
   }
 }

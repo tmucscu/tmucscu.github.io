@@ -1,12 +1,12 @@
 {
-  "unversionedId": "intro-facilities/about-dcs-servers",
-  "id": "intro-facilities/about-dcs-servers",
+  "unversionedId": "facilities/about-dcs-servers",
+  "id": "facilities/about-dcs-servers",
   "title": "About DCS Servers",
   "description": "The Department of Computer Science uses a variety of hardware platforms and operating systems (O/S). The purpose of the following sections is to explain what kind of hardware can be found in the various DCS labs and what O/Ss are being run on each machine. On the UNIX and Linux side of things, DCS has multiple servers which run Unix/Linux. They are: metis, elara, europa, thebe; with four CPUs and 4GB of memory, which runs Linux. Our print server is called prm and our file server is phobos. The PCs boot up on their own and can load either Windows or Linux at boot-time. Windows is only available on the PCs and is started from the PC's hard disk as opposed to a remote server. While one can login into the UNIX/Linux machines both locally and through the Internet using an ssh client, the Windows machines can only be accessed locally. Worthy of mention is the fact that the file server provides all users with a centralized \"home\" directory that can be accessed from any of the DCS UNIX/Linux servers and Windows . It is important to remember, though, that a program compiled on one particular O/S and hardware platform cannot be run on another. For example, if you compile and run a C program on Windows on a PC, you could not then run the same executable on a Linux sytem. You would first have to re-compile the program on the Linux sytem and then you could run it. The same principle applies to both the UNIX and Linux systems.",
-  "source": "@site/docs/intro-facilities/about-dcs-servers.md",
-  "sourceDirName": "intro-facilities",
-  "slug": "/intro-facilities/about-dcs-servers",
-  "permalink": "/intro-facilities/about-dcs-servers",
+  "source": "@site/docs/facilities/about-dcs-servers.md",
+  "sourceDirName": "facilities",
+  "slug": "/facilities/about-dcs-servers",
+  "permalink": "/facilities/about-dcs-servers",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Setting up your Ryerson CS Account",
-    "permalink": "/intro-facilities/ryerson-cs-setup"
+    "permalink": "/facilities/ryerson-cs-setup"
   },
   "next": {
     "title": "Lab Information",
-    "permalink": "/intro-facilities/lab-info"
+    "permalink": "/facilities/lab-info"
   }
 }

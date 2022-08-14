@@ -26,11 +26,11 @@ export default {
       {
         "docs": {
           "routeBasePath": "/",
-          "sidebarPath": "/Users/andrae/Documents/CS User Guide/department-guide/sidebars.js"
+          "sidebarPath": "/Users/jason/department-guide/sidebars.js"
         },
         "blog": false,
         "theme": {
-          "customCss": "/Users/andrae/Documents/CS User Guide/department-guide/src/css/custom.css"
+          "customCss": "/Users/jason/department-guide/src/css/custom.css"
         }
       }
     ]
@@ -42,42 +42,13 @@ export default {
         "alt": "CSCU Logo",
         "src": "img/cscu.png"
       },
-      "items": [
-        {
-          "href": "https://github.com/tmucscu",
-          "label": "GitHub",
-          "position": "right"
-        }
-      ],
-      "hideOnScroll": false
+      "hideOnScroll": false,
+      "items": []
     },
     "footer": {
       "style": "dark",
-      "links": [
-        {
-          "title": "Social Media",
-          "items": [
-            {
-              "label": "Instagram",
-              "href": "https://www.instagram.com/tmu_cscu/"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/ryecscu"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "GitHub",
-              "href": "https://github.com/tmucscu"
-            }
-          ]
-        }
-      ],
-      "copyright": "Copyright © 2022 TMU CSCU. Built with Docusaurus."
+      "copyright": "Copyright © 2022 TMU CSCU",
+      "links": []
     },
     "prism": {
       "theme": {
