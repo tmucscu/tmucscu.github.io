@@ -26,11 +26,11 @@ export default {
       {
         "docs": {
           "routeBasePath": "/",
-          "sidebarPath": "/Users/jason/department-guide/sidebars.js"
+          "sidebarPath": "D:\\Users\\defaultuser0\\Documents\\department-guide\\sidebars.js"
         },
         "blog": false,
         "theme": {
-          "customCss": "/Users/jason/department-guide/src/css/custom.css"
+          "customCss": "D:\\Users\\defaultuser0\\Documents\\department-guide\\src\\css\\custom.css"
         }
       }
     ]

@@ -1,5 +1,5 @@
 # Setting up your Ryerson CS Account
-> Written Fall 2021 on 2021-09-03
+> Written on 2021-09-03 by tactidact#4140 on Discord
 
 If you're a new student in the CS department at Ryerson, you'll have another account for just the CS department that is distinct from your my.ryerson/Google Workspace `@ryerson.ca` email account. You'll use this account to login to lab computers in the ENG building, both in Windows and Linux, and to the [CS Webmail Service](https://webmail.cs.ryerson.ca/).
 
@@ -96,7 +96,3 @@ Host ryerson
 4. Hit <kbd>Ctrl</kbd> <kbd>S</kbd> to save the file and close it.
 
 Now you can simply type `ssh ryerson` into the terminal to SSH to the CS department server. You may change this by editing the `ryerson` in the first line of the file to any phrase you want (Avoid spaces or special characters).
-
----
-
-I hope this was helpful to you and if you have any questions, you can ping me on Discord. Though I make no guarantees I can help and provide this guide without any warranty or responsibility.
