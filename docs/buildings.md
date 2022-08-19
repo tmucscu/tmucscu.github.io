@@ -15,7 +15,7 @@ You can conveniently find our office in the ENG building (location information j
 <b>Location: 245 Church St | Church St and Gould St</b><br/>
 
 The ENG building (as most call it) is the home of the computer science students.
-On the lower ground floor and 1st floor, you’ll find lecture rooms where you might have some classes. The 2nd floor is where you’ll find all the computer labs and some study space in the halls. [Insert small snippet of location of microwaves/printers]
+On the lower ground floor and 1st floor, you’ll find lecture rooms where you might have some classes. The 2nd floor is where you’ll find all the computer labs and some study space in the halls.
 - *Printers in room ENG202 and ENG206*<br/>
 - *CSCU Office in room ENG 111*
 

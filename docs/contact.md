@@ -7,7 +7,7 @@ Cindy Fang, VP Operations: <a href="mailto: vp.operations@ryecscu.com" target="_
 Jennifer Chung, VP Academics: <a href="mailto: vp.academic@ryecscu.com" target="_blank" rel="noopener noreferrer">vp.academic@ryecscu.com</a><br/>
 Sakshi Padhiar, VP Finance: <a href="mailto: vp.finance@ryecscu.com" target="_blank" rel="noopener noreferrer">vp.finance@ryecscu.com</a><br/>
 Woosung Kim, VP Student Life: <a href="mailto: vp.studentlife@ryecscu.com" target="_blank" rel="noopener noreferrer">vp.studentlife@ryecscu.com</a><br/>
-Vivian Fang, VP Careers & Co-op: <a href="mailto: vfang@ryerson.ca" target="_blank" rel="noopener noreferrer">vfang@ryerson.ca</a><br/>
+Vivian Fang, VP Careers & Co-op: <a href="mailto: vp.careers@ryecscu.com" target="_blank" rel="noopener noreferrer">vp.careers@ryecscu.com</a><br/>
 Jason Truong, VP Communications: <a href="mailto: vp.communications@ryecscu.com" target="_blank" rel="noopener noreferrer">vp.communications@ryecscu.com</a><br/><br/>
 Darryn Roopnarine, 4th Year Representative: <a href="mailto: darryn.roopnarine@ryerson.ca" target="_blank" rel="noopener noreferrer">darryn.roopnarine@ryerson.ca </a><br/>
 Majuth Kirakalaprathapan, 4th Year Representative: <a href="mailto: mkirakalaprathapan@ryerson.ca" target="_blank" rel="noopener noreferrer">mkirakalaprathapan@ryerson.ca</a><br/>

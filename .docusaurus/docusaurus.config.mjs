@@ -13,7 +13,7 @@ export default {
   "favicon": "img/favicon.ico",
   "organizationName": "tmucscu",
   "projectName": "tmucscu.github.io",
-  "deploymentBranch": "main",
+  "deploymentBranch": "deployment",
   "trailingSlash": false,
   "i18n": {
     "defaultLocale": "en",
