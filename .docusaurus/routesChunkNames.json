@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "/__docusaurus/debug-9d6": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
@@ -54,6 +55,63 @@
     "__context": {
       "plugin": "plugin---6-af-58b"
     },
+=======
+  "/__docusaurus/debug-08c": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-5-b-6-0be"
+    }
+  },
+  "/__docusaurus/debug/config-97f": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-5-b-6-0be"
+    }
+  },
+  "/__docusaurus/debug/content-902": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-5-b-6-0be"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-358": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-5-b-6-0be"
+    }
+  },
+  "/__docusaurus/debug/metadata-49d": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-5-b-6-0be"
+    }
+  },
+  "/__docusaurus/debug/registry-4b4": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-5-b-6-0be"
+    }
+  },
+  "/__docusaurus/debug/routes-b3d": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-5-b-6-0be"
+    }
+  },
+  "/markdown-page-f5a": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pageb-4-e-ed3"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/-ac3": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---463-ce6"
+    },
+>>>>>>> ad8d42b1e68ec155e502d499dc804a7f20fc67d8
     "versionMetadata": "versionMetadata---935-fcf"
   },
   "/-96c": {

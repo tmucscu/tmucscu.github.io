@@ -12,9 +12,15 @@
           "tagsPath": "/tags",
           "isLast": true,
           "routePriority": -1,
+<<<<<<< HEAD
           "sidebarFilePath": "D:\\Users\\defaultuser0\\Documents\\department-guide\\sidebars.js",
           "contentPath": "D:\\Users\\defaultuser0\\Documents\\department-guide\\docs",
           "contentPathLocalized": "D:\\Users\\defaultuser0\\Documents\\department-guide\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+=======
+          "sidebarFilePath": "/Users/jason/department-guide/sidebars.js",
+          "contentPath": "/Users/jason/department-guide/docs",
+          "contentPathLocalized": "/Users/jason/department-guide/i18n/en/docusaurus-plugin-content-docs/current",
+>>>>>>> ad8d42b1e68ec155e502d499dc804a7f20fc67d8
           "docs": [
             {
               "unversionedId": "buildings",
