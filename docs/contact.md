@@ -13,6 +13,9 @@ Darryn Roopnarine, 4th Year Representative: <a href="mailto: darryn.roopnarine@r
 Majuth Kirakalaprathapan, 4th Year Representative: <a href="mailto: mkirakalaprathapan@ryerson.ca" target="_blank" rel="noopener noreferrer">mkirakalaprathapan@ryerson.ca</a><br/>
 Thao Nguyen, 3rd Year Representative: <a href="mailto: thao2.nguyen@ryerson.ca" target="_blank" rel="noopener noreferrer">thao2.nguyen@ryerson.ca</a><br/>
 Janat Baig, 2nd Year Representative: <a href="mailto: janat2.baig@ryerson.ca" target="_blank" rel="noopener noreferrer">janat2.baig@ryerson.ca</a><br/>
+Katrina Mei, 1st Year Representative: <a href="mailto: kmei@ryerson.ca" target="_blank" rel="noopener noreferrer">kmei@ryerson.ca</a><br/><br/>
+Andrae Cari, Marketing Head: <a href="mailto: acari@ryerson.ca" target="_blank" rel="noopener noreferrer">acari@ryerson.ca</a><br/>
+Vanessa Landayan, System Administrator: <a href="mailto: sysadmin@ryecscu.com" target="_blank" rel="noopener noreferrer">sysadmin@ryecscu.com</a><br/>
 
 <h3>Our Socials</h3>
 <a href="https://www.instagram.com/tmu_cscu/" target="_blank" rel="noopener noreferrer">Instagram</a><br/>
