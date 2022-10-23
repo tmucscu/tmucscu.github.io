@@ -12,9 +12,9 @@
           "tagsPath": "/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/jason/department-guide/sidebars.js",
-          "contentPath": "/Users/jason/department-guide/docs",
-          "contentPathLocalized": "/Users/jason/department-guide/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "D:\\Users\\defaultuser0\\Documents\\department-guide\\sidebars.js",
+          "contentPath": "D:\\Users\\defaultuser0\\Documents\\department-guide\\docs",
+          "contentPathLocalized": "D:\\Users\\defaultuser0\\Documents\\department-guide\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "buildings",
@@ -131,7 +131,7 @@
               "unversionedId": "facilities/ryerson-cs-setup",
               "id": "facilities/ryerson-cs-setup",
               "title": "Setting up your Ryerson CS Account",
-              "description": "Written Fall 2021 on 2021-09-03",
+              "description": "Written on 2021-09-03 by tactidact#4140 on Discord",
               "source": "@site/docs/facilities/ryerson-cs-setup.md",
               "sourceDirName": "facilities",
               "slug": "/facilities/ryerson-cs-setup",

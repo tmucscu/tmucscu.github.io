@@ -6,13 +6,15 @@
 export default {
   "title": "TMU CSCU Wiki",
   "tagline": "A user guide for computer science at TMU.",
-  "url": "/",
+  "url": "https://tmucscu.github.io/",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "Toronto Metropolitan University",
-  "projectName": "docusaurus",
+  "organizationName": "tmucscu",
+  "projectName": "tmucscu.github.io",
+  "deploymentBranch": "main",
+  "trailingSlash": true,
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -26,11 +28,11 @@ export default {
       {
         "docs": {
           "routeBasePath": "/",
-          "sidebarPath": "/Users/jason/department-guide/sidebars.js"
+          "sidebarPath": "D:\\Users\\defaultuser0\\Documents\\department-guide\\sidebars.js"
         },
         "blog": false,
         "theme": {
-          "customCss": "/Users/jason/department-guide/src/css/custom.css"
+          "customCss": "D:\\Users\\defaultuser0\\Documents\\department-guide\\src\\css\\custom.css"
         }
       }
     ]
