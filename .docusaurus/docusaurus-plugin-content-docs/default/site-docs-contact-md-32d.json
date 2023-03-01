@@ -1,0 +1,19 @@
+{
+  "unversionedId": "contact",
+  "id": "contact",
+  "title": "Contact Us",
+  "description": "Computer Science Course Union",
+  "source": "@site/docs/contact.md",
+  "sourceDirName": ".",
+  "slug": "/contact",
+  "permalink": "/contact",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/faq"
+  }
+}

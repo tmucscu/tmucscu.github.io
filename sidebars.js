@@ -25,7 +25,7 @@ const sidebars = {
         {
           type: "doc",
           id: "facilities/tmu-cs-setup",
-          label: "Setting up your TMU CS account",
+          label: "Setting up your TMU CS Account",
         },
         {
           type: "doc",

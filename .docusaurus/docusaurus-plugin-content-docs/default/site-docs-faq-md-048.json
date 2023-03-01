@@ -1,0 +1,23 @@
+{
+  "unversionedId": "faq",
+  "id": "faq",
+  "title": "Frequently Asked Questions",
+  "description": "What are some events you’ve held in the past?",
+  "source": "@site/docs/faq.md",
+  "sourceDirName": ".",
+  "slug": "/faq",
+  "permalink": "/faq",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Student Discounts",
+    "permalink": "/discounts"
+  },
+  "next": {
+    "title": "Contact Us",
+    "permalink": "/contact"
+  }
+}

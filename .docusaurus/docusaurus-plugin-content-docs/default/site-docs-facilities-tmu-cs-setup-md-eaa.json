@@ -1,0 +1,23 @@
+{
+  "unversionedId": "facilities/tmu-cs-setup",
+  "id": "facilities/tmu-cs-setup",
+  "title": "Setting up your TMU CS Account",
+  "description": "Written on 2021-09-03 by tactidact#4140 on Discord",
+  "source": "@site/docs/facilities/tmu-cs-setup.md",
+  "sourceDirName": "facilities",
+  "slug": "/facilities/tmu-cs-setup",
+  "permalink": "/facilities/tmu-cs-setup",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome to the Toronto Metropolitan University CSCU Wiki",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "About DCS Servers",
+    "permalink": "/facilities/about-dcs-servers"
+  }
+}

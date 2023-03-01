@@ -1,0 +1,14 @@
+{
+  "unversionedId": "facilities/ryerson-cs-setup",
+  "id": "facilities/ryerson-cs-setup",
+  "title": "ryerson-cs-setup",
+  "description": "",
+  "source": "@site/docs/facilities/ryerson-cs-setup.md",
+  "sourceDirName": "facilities",
+  "slug": "/facilities/ryerson-cs-setup",
+  "permalink": "/facilities/ryerson-cs-setup",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
