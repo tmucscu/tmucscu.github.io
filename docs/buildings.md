@@ -3,8 +3,8 @@
 In this section, we’ll cover buildings you’ll most likely have classes in for Computer Science courses, as well as some general purpose buildings. Trust us, you’ll want to read this.
 
 Additionally, checkout our **<a href="https://www.youtube.com/watch?v=eoVmgoIIhLo  
-" target="_blank" rel="noopener noreferrer">video guide</a>** for more details on navigating campus! Topics covered are directions to buildings, study spots, CS help, and more. *Created by <a href="https://www.linkedin.com/in/richard-marquez-2001/  
-" target="_blank" rel="noopener noreferrer"> Ric Marquez </a>*<br/>
+" target="_blank" rel="noopener noreferrer">video guide</a>** for more details on navigating campus! Topics covered are directions to buildings, study spots, CS help, and more. _Created by <a href="https://www.linkedin.com/in/richard-marquez-2001/  
+" target="_blank" rel="noopener noreferrer"> Ric Marquez </a>_<br/>
 
 <h3>Computer Science Course Union Office</h3>
 <b>Location: Room ENG 111 in George Vari Engineering and Computer Centre</b><br/>
@@ -16,8 +16,9 @@ You can conveniently find our office in the ENG building (location information j
 
 The ENG building (as most call it) is the home of the computer science students.
 On the lower ground floor and 1st floor, you’ll find lecture rooms where you might have some classes. The 2nd floor is where you’ll find all the computer labs and some study space in the halls.
-- *Printers in room ENG202 and ENG206*<br/>
-- *CSCU Office in room ENG 111*
+
+- _Printers in room ENG202 and ENG206_<br/>
+- _CSCU Office in room ENG 111_
 
 <h3>Kerr Hall (KHN/KHE/KHS/KHW)</h3>
 <b>Location: South entrance: 40/50/60 Gould St | Gould St</b><br/>
@@ -37,7 +38,7 @@ This building can be accessed from the library building or from Kerr Hall West. 
 <h3>Student Learning Centre (SLC)</h3>
 <b>Location: 341 Yonge St | Yonge St and Gould St</b><br/>
 
-Arguably one of the best buildings at Ryerson. The SLC contains 8 floors and each floor is used for a different purpose. The floors have everything from academic help, to study spaces and loud hangout spaces.
+Arguably one of the best buildings at TMU. The SLC contains 8 floors and each floor is used for a different purpose. The floors have everything from academic help, to study spaces and loud hangout spaces.
 
 <h3>Ted Rogers School of Management (TRS)</h3>
 <b>Location: 55 Dundas St W | Dundas St W and Bay St</b><br/>

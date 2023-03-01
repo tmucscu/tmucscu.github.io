@@ -26,7 +26,7 @@ We know, everyone tells you this, but too bad, we’re telling you again. Make s
 
 <h3>Physical Health</h3>
 
-Ryerson offers a bunch of physical activities for you to do. As a student, you have access to 2 gyms (RAC and MAC), a swimming pool, indoor ice rink (free skate only), small outdoor rink (winter only), ping pong tables, squash courts, basketball courts, dance studio, recreational clubs, and much more.
+TMU offers a bunch of physical activities for you to do. As a student, you have access to 2 gyms (RAC and MAC), a swimming pool, indoor ice rink (free skate only), small outdoor rink (winter only), ping pong tables, squash courts, basketball courts, dance studio, recreational clubs, and much more.
 
 <h3>Mental Health</h3>
 

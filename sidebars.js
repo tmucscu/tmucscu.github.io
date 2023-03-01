@@ -24,8 +24,8 @@ const sidebars = {
       items: [
         {
           type: "doc",
-          id: "facilities/ryerson-cs-setup",
-          label: "Setting up your Ryerson CS account",
+          id: "facilities/tmu-cs-setup",
+          label: "Setting up your TMU CS account",
         },
         {
           type: "doc",

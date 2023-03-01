@@ -1,6 +1,7 @@
 ---
 slug: /
 ---
+
 # Welcome to the Toronto Metropolitan University CSCU Wiki
 
 We are Toronto Metropolitan University’s Computer Science Course Union (CSCU). We represent all full time undergraduate computer science students at TMU in the computer science department. We also host plenty of academic, career, and social events.
@@ -17,4 +18,4 @@ Computing and Communications Services (CCS) is TMU's central information technol
 
 ## Where to Get Help
 
-If you have a question which is not answered by this User's Guide, you should consult the User's Guide to Academic Computing and the Internet which is full of useful information about most of the computing facilities available throughout all of TMU. If you would like to book a lab or want to get some additional information about our Facilities, please email request@cs.torontomu.ca . If there is a problem with the hardware in one of our labs, first make sure that everything is plugged in properly. If this doesn't solve the problem then please email request@cs.torontomu.ca and include a detailed description of the problem, including which room and machine (eg. "The mouse is broken on PC ENG206-42" or "The monitor won't turn on at ENG201-15"). If there is a problem with the software or network, ask around to see if anyone else can help you. If that doesn't work, please contact one of the System Administrators. Mail can be sent to request@cs.ryerson.ca to report hardware or software problems, or to request new services. -->
+If you have a question which is not answered by this User's Guide, you should consult the User's Guide to Academic Computing and the Internet which is full of useful information about most of the computing facilities available throughout all of TMU. If you would like to book a lab or want to get some additional information about our Facilities, please email request@cs.torontomu.ca . If there is a problem with the hardware in one of our labs, first make sure that everything is plugged in properly. If this doesn't solve the problem then please email request@cs.torontomu.ca and include a detailed description of the problem, including which room and machine (eg. "The mouse is broken on PC ENG206-42" or "The monitor won't turn on at ENG201-15"). If there is a problem with the software or network, ask around to see if anyone else can help you. If that doesn't work, please contact one of the System Administrators. Mail can be sent to request@cs.torontomu.ca to report hardware or software problems, or to request new services. -->
