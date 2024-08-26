@@ -22,7 +22,6 @@ Jason Truong, System Administrator: <a href="mailto: sysadmin@tmucscu.com" targe
 <a href="https://www.youtube.com/channel/UCxZNP3s0RBaOT-nEEB7nAtg" target="_blank" rel="noopener noreferrer">YouTube</a><br/>
 <a href="https://www.linkedin.com/company/ryerson-computer-science-course-union/" target="_blank" rel="noopener noreferrer">LinkedIn</a><br/>
 <a href="https://www.twitch.tv/tmu_cscu" target="_blank" rel="noopener noreferrer">Twitch</a><br/>
-<br/>
 
 <h3>Computer Science Department</h3>
 General Inquiry: <a href="mailto: ask@cs.torontomu.ca" target="_blank" rel="noopener noreferrer">ask@cs.torontomu.ca</a><br/>
