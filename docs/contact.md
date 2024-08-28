@@ -6,8 +6,8 @@ Jennifer Chung, VP Operations: <a href="mailto: operations@tmucscu.com" target="
 Thao Nguyen, VP Academics: <a href="mailto: academics@tmucscu.com" target="_blank" rel="noopener noreferrer">academics@tmucscu.com</a><br/>
 Brian Lee, VP Student Life: <a href="mailto: studentlife@tmucscu.com" target="_blank" rel="noopener noreferrer">studentlife@tmucscu.com</a><br/>
 Stewart Bustard, VP Finance: <a href="mailto: finance@tmucscu.com" target="_blank" rel="noopener noreferrer">finance@tmucscu.com</a><br/>
-Sofia Pham, VP Communications: <a href="mailto: communications@tmucscu.com" target="_blank" rel="noopener noreferrer">communications@tmucscu.com</a><br/><br/>
-Hadi Jafar, VP Careers & Co-op: <a href="mailto: careersandcoop@tmucscu.com" target="_blank" rel="noopener noreferrer">careersandcoop@tmucscu.com</a><br/>
+Sofia Pham, VP Communications: <a href="mailto: communications@tmucscu.com" target="_blank" rel="noopener noreferrer">communications@tmucscu.com</a><br/>
+Hadi Jafar, VP Careers & Co-op: <a href="mailto: careersandcoop@tmucscu.com" target="_blank" rel="noopener noreferrer">careersandcoop@tmucscu.com</a><br/><br/>
 Dylan Ha, 4th Year Representative: <a href="mailto: dylan.ha@torontomu.ca" target="_blank" rel="noopener noreferrer">dylan.ha@torontomu.ca</a><br/>
 Osanyem Osadebe, 4th Year Representative: <a href="mailto: oosadebe@torontomu.ca" target="_blank" rel="noopener noreferrer">oosadebe@torontomu.ca</a><br/>
 Rajab Rehan, 3rd Year Representative: <a href="mailto: rajab.rehan@torontomu.ca" target="_blank" rel="noopener noreferrer">rajab.rehan@torontomu.ca</a><br/>
