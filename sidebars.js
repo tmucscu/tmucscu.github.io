@@ -40,6 +40,7 @@ const sidebars = {
       ],
     },
     { type: "doc", id: "buildings", label: "TMU Buildings 101" },
+    { type: "doc", id: "resources", label: "Resources" },
     {
       type: "doc",
       id: "software",
