@@ -1,6 +1,8 @@
 # Resources
 
-Here you can find access to resources we've created for students throughout the years! Resources include slide decks from our workshops, our websites, guides, and more!
+Here you can find access to resources we've created for students throughout the years! Resources include requesting a meeting with a CSCU member, slide decks from our workshops, our websites, guides, and more!
+
+<h3><a href="https://forms.gle/F1thrbSkuDtvpJVYA" target="_blank" rel="noopener noreferrer">Request a Meeting</a></h3>
 
 <h3><a href="https://drive.google.com/drive/folders/1llZ_vwaPvu96O1l_HkqTBVB344Utyqbi?usp=drive_link" target="_blank" rel="noopener noreferrer">Slide Decks</a></h3>
 
