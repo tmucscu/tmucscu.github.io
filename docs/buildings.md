@@ -7,9 +7,9 @@ Additionally, checkout our **<a href="https://www.youtube.com/watch?v=eoVmgoIIhL
 " target="_blank" rel="noopener noreferrer"> Ric Marquez </a>_<br/>
 
 <h3>Computer Science Course Union Office</h3>
-<b>Location: Room ENG 111 in George Vari Engineering and Computer Centre</b><br/>
+<b>Location: Room EPH 442-D in Eric Palin Hall</b><br/>
 
-You can conveniently find our office in the ENG building (location information just below). If you've <a href="./contact" target="_blank" rel="noopener noreferrer">contacted a CSCU executive</a> or need to pick something up, this is the place it'll be!
+You can conveniently find our office in Eric Palin Hall. If you've <a href="./contact" target="_blank" rel="noopener noreferrer">contacted a CSCU executive</a> or need to pick something up, this is the place it'll be!
 
 <h3>George Vari Engineering and Computing Centre (ENG)</h3>
 <b>Location: 245 Church St | Church St and Gould St</b><br/>
@@ -18,7 +18,6 @@ The ENG building (as most call it) is the home of the computer science students.
 On the lower ground floor and 1st floor, you’ll find lecture rooms where you might have some classes. The 2nd floor is where you’ll find all the computer labs and some study space in the halls.
 
 - _Printers in room ENG202 and ENG206_<br/>
-- _CSCU Office in room ENG 111_
 
 <h3>Kerr Hall (KHN/KHE/KHS/KHW)</h3>
 <b>Location: South entrance: 40/50/60 Gould St | Gould St</b><br/>
@@ -56,6 +55,11 @@ Although it's home to the nursing students, some of your classes may be in here.
 The building is a slightly cramped building right across the Tim Hortons on Victoria St. You’ll likely have some electives or math classes here.
 
 <h3>Yonge Dundas Square (DSQ)</h3>
-<b>Location: 10 Dundas Street East | Yonge st and Dundas st W</b><br/>
+<b>Location: 10 Dundas Street East | Yonge St and Dundas St W</b><br/>
 
 So this one is a bit weird… Just take the escalators all the way up until you see the cineplex or smell popcorn. Sometimes you’ll have classes inside the theatres… yes we know it’s weird, but at least the chairs are comfortable.<br/>
+
+<h3>Eric Palin Hall (EPH)</h3>
+<b>Location: 87 Gerrard St East | Gerrard St E and Church St </b><br/>
+
+Where our CSCU office lives! You'll find some of your classes (mostly electives) here. Right beside Pitman Hall residency, this is one of the campus' older buildings.<br/>
