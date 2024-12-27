@@ -3,7 +3,7 @@
 In this section, we’ll cover buildings you’ll most likely have classes in for Computer Science courses, as well as some general purpose buildings. Trust us, you’ll want to read this.
 
 Additionally, checkout our **<a href="https://www.youtube.com/watch?v=eoVmgoIIhLo  
-" target="_blank" rel="noopener noreferrer">video guide</a>** for more details on navigating campus! Topics covered are directions to buildings, study spots, CS help, and more. _Created by <a href="https://www.linkedin.com/in/richard-marquez-2001/  
+" target="_blank" rel="noopener noreferrer">video guide</a>** for more details on navigating campus! Topics covered are directions to buildings, study spots, CS help, and more. Note: In the video, the CSCU office location is **outdated.** Find our new office at EPH 4420D! _Created by <a href="https://www.linkedin.com/in/richard-marquez-2001/  
 " target="_blank" rel="noopener noreferrer"> Ric Marquez </a>_<br/>
 
 <h3>Computer Science Course Union Office</h3>
