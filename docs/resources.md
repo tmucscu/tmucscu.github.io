@@ -12,4 +12,6 @@ Here you can find access to resources we've created for students throughout the 
 
 <h3><a href="https://drive.google.com/file/d/1LPuHkz0TLF8hrfun50PDLZwP5MA1YuBK/view" target="_blank" rel="noopener noreferrer">CSCU's Declassified School Survival Guide</a></h3>
 
+<h3><a href="https://github.com/tmucscu" target="_blank" rel="noopener noreferrer">CSCU Github</a></h3>
+
 <h3><a href="https://linktr.ee/tmu_cscu" target="_blank" rel="noopener noreferrer">CSCU Link Tree</a></h3>

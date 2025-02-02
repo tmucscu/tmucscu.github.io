@@ -1,0 +1,23 @@
+{
+  "unversionedId": "resources",
+  "id": "resources",
+  "title": "Resources",
+  "description": "Here you can find access to resources we've created for students throughout the years! Resources include requesting a meeting with a CSCU member, slide decks from our workshops, our websites, guides, and more!",
+  "source": "@site/docs/resources.md",
+  "sourceDirName": ".",
+  "slug": "/resources",
+  "permalink": "/resources",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TMU Buildings 101",
+    "permalink": "/buildings"
+  },
+  "next": {
+    "title": "Software and Resource Recommendations",
+    "permalink": "/software"
+  }
+}

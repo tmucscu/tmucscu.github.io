@@ -49,7 +49,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2023 TMU CSCU",
+      "copyright": "Copyright © 2025 TMU CSCU",
       "links": []
     },
     "prism": {

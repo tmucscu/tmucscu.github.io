@@ -49,7 +49,7 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/-206": {
+  "/-1c9": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---6-cf-aa6"
@@ -91,6 +91,10 @@
   "/faq-204": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---faq-048-9a2"
+  },
+  "/resources-70f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---resourcesd-92-d89"
   },
   "/software-311": {
     "__comp": "__comp---theme-doc-item-178-a40",

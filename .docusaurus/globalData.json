@@ -55,6 +55,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "resources",
+              "path": "/resources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "software",
               "path": "/software",
               "sidebar": "tutorialSidebar"

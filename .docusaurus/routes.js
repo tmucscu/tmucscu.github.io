@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '206'),
+    component: ComponentCreator('/', '1c9'),
     routes: [
       {
         path: '/',
@@ -96,6 +96,12 @@ export default [
       {
         path: '/faq',
         component: ComponentCreator('/faq', '204'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/resources',
+        component: ComponentCreator('/resources', '70f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
